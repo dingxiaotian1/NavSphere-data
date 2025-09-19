@@ -25,6 +25,15 @@
           "items": []
         }
       ]
+    },
+    {
+      "id": "1758265856119",
+      "title": "在线阅读书籍",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
