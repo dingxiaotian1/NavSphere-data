@@ -40,6 +40,14 @@
           "description": "可视化概率学习",
           "icon": "/assets/favicon_1758266014175.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1758266060190_rf733jubr",
+          "title": "Table of Contents &#8212; How to Think like a Computer Scientist: Interactive Edition",
+          "href": "https://levjj.github.io/thinkcspy/ ",
+          "description": "一本在线的编程入门教材，以 Python 语言为例，适合用来学习编程。",
+          "icon": "https://levjj.github.io/runestone/static/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
