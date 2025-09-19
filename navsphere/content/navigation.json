@@ -32,7 +32,16 @@
       "icon": "Folder",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1758266031765_by98e07a2",
+          "title": "看见概率论",
+          "href": "https://probability.visualized.fun/",
+          "description": "可视化概率学习",
+          "icon": "/assets/favicon_1758266014175.svg",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
